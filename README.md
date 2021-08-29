@@ -67,11 +67,11 @@ https://user-images.githubusercontent.com/10459220/131241019-204be19d-2964-4e60-
 
 For Apache-2.0 exceptions, see [LICENSING.md][license].
 
-[raspberrysetup]: https://github.com/nidhinkumar06/TICKStackDialogflowCX/blob/main/setup/RaspberryPi-setup.md
-[influxdbsetup]: https://github.com/nidhinkumar06/TICKStackDialogflowCX/blob/main/setup/InfluxDB-setup.md
-[telegrafsetup]: https://github.com/nidhinkumar06/TICKStackDialogflowCX/blob/main/setup/Telegraf-setup.md
-[twiliocloudsetup]: https://github.com/nidhinkumar06/TICKStackDialogflowCX/blob/main/functions/DialogflowCXAPI/README.md
-[influxdbcloudsetup]: https://github.com/nidhinkumar06/TICKStackDialogflowCX/blob/main/functions/Webhook/README.md
-[twiliosetup]: https://github.com/nidhinkumar06/TICKStackDialogflowCX/blob/main/setup/Twilio-setup.md
-[dialogflowsetup]: https://github.com/nidhinkumar06/TICKStackDialogflowCX/blob/main/setup/Dialogflow-setup.md 
-[license]: https://github.com/nidhinkumar06/TICKStackDialogflowCX/blob/main/LICENSE
+[raspberrysetup]: https://github.com/nidhinkumar06/RaspberryPi-DialogflowCX/blob/main/setup/RaspberryPi-setup.md
+[influxdbsetup]: https://github.com/nidhinkumar06/RaspberryPi-DialogflowCX/blob/main/setup/InfluxDB-setup.md
+[telegrafsetup]: https://github.com/nidhinkumar06/RaspberryPi-DialogflowCX/blob/main/setup/Telegraf-setup.md
+[twiliocloudsetup]: https://github.com/nidhinkumar06/RaspberryPi-DialogflowCX/blob/main/functions/DialogflowCXAPI/README.md
+[influxdbcloudsetup]: https://github.com/nidhinkumar06/RaspberryPi-DialogflowCX/blob/main/functions/Webhook/README.md
+[twiliosetup]: https://github.com/nidhinkumar06/RaspberryPi-DialogflowCX/blob/main/setup/Twilio-setup.md
+[dialogflowsetup]: https://github.com/nidhinkumar06/RaspberryPi-DialogflowCX/blob/main/setup/Dialogflow-setup.md 
+[license]: https://github.com/nidhinkumar06/RaspberryPi-DialogflowCX/blob/main/LICENSE
