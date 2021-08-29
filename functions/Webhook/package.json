@@ -1,0 +1,23 @@
+{
+  "name": "tickstackdb",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "@influxdata/influxdb-client": "^1.15.0",
+    "@influxdata/influxdb-client-apis": "^1.15.0",
+    "body-parser": "^1.19.0",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.33"
+  },
+  "devDependencies": {
+    "@google-cloud/functions-framework": "^1.1.1",
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0",
+    "moment": "^2.24.0"
+  }
+}
